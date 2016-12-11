@@ -1,0 +1,9 @@
+root { 
+    display: block;
+}
+.center {
+    text-align: center;
+}
+.sansSerif{
+    font-family: sans-serif;
+}
